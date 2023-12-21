@@ -1,0 +1,84 @@
+[2023-11-16 at 18:18:34 EET] Logger start to work
+[2023-11-16 at 18:18:34 EET] [INFO] AudioPlayer constructor called
+[2023-11-16 at 18:18:34 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-16 at 18:18:34 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-16 at 18:18:34 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-16 at 18:18:34 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-16 at 18:18:34 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-16 at 18:18:34 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-11-16 at 18:18:34 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-11-16 at 18:18:34 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-11-16 at 18:18:34 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-11-16 at 18:18:34 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-11-16 at 18:18:34 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-11-16 at 18:18:34 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 14:58:59 EET] Logger start to work
+[2023-12-08 at 14:58:59 EET] [INFO] AudioPlayer constructor called
+[2023-12-08 at 14:58:59 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 14:58:59 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 14:58:59 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 14:58:59 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 14:58:59 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 14:58:59 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 14:58:59 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 14:58:59 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 14:58:59 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 14:58:59 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 14:58:59 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 14:58:59 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 15:00:14 EET] Logger start to work
+[2023-12-08 at 15:00:14 EET] [INFO] AudioPlayer constructor called
+[2023-12-08 at 15:00:14 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 15:00:14 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 15:00:14 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 15:00:14 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 15:00:14 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 15:00:14 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 15:00:14 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 15:00:14 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 15:00:14 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 15:00:14 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 15:00:14 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 15:00:14 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 16:40:00 EET] Logger start to work
+[2023-12-08 at 16:40:00 EET] [INFO] AudioPlayer constructor called
+[2023-12-08 at 16:40:00 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 16:40:00 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 16:40:00 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 16:40:00 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 16:40:00 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 16:40:00 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 16:40:00 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 16:40:00 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 16:40:00 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 16:40:00 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 16:40:00 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 16:40:00 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 18:06:09 EET] Logger start to work
+[2023-12-08 at 18:06:09 EET] [INFO] AudioPlayer constructor called
+[2023-12-08 at 18:06:09 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 18:06:09 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 18:06:09 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 18:06:09 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 18:06:09 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-08 at 18:06:09 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 18:06:09 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 18:06:09 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 18:06:09 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 18:06:09 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 18:06:09 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-08 at 18:06:09 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-21 at 13:12:01 EET] Logger start to work
+[2023-12-21 at 13:12:01 EET] [INFO] AudioPlayer constructor called
+[2023-12-21 at 13:12:01 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-21 at 13:12:01 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-21 at 13:12:01 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-21 at 13:12:01 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-21 at 13:12:01 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-21 at 13:12:01 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-21 at 13:12:01 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-21 at 13:12:01 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-21 at 13:12:01 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-21 at 13:12:01 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-21 at 13:12:01 EET] [INFO] TurnPrevNextSong Dictaphone method was called
+[2023-12-21 at 13:12:01 EET] [INFO] TurnPrevNextSong Dictaphone method was called

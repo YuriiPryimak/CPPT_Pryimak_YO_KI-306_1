@@ -1,0 +1,30 @@
+[2022-10-27 at 23:24:44 EEST] Logger start to work
+[2022-10-27 at 23:24:44 EEST] [INFO] AudioPlayer constructor called
+[2022-10-27 at 23:25:18 EEST] Logger start to work
+[2022-10-27 at 23:25:18 EEST] [INFO] AudioPlayer constructor called
+[2022-10-27 at 23:25:18 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:25:18 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:25:18 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:25:18 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:25:18 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:25:18 EEST] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2022-10-27 at 23:25:18 EEST] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2022-10-27 at 23:25:18 EEST] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2022-10-27 at 23:25:18 EEST] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2022-10-27 at 23:25:18 EEST] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2022-10-27 at 23:25:18 EEST] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2022-10-27 at 23:25:18 EEST] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2022-10-27 at 23:26:11 EEST] Logger start to work
+[2022-10-27 at 23:26:11 EEST] [INFO] AudioPlayer constructor called
+[2022-10-27 at 23:26:11 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:26:11 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:26:11 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:26:11 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:26:11 EEST] [INFO] AudioPlayer AddSong method was called
+[2022-10-27 at 23:26:11 EEST] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2022-10-27 at 23:26:11 EEST] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2022-10-27 at 23:26:11 EEST] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2022-10-27 at 23:26:11 EEST] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2022-10-27 at 23:26:11 EEST] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2022-10-27 at 23:26:11 EEST] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2022-10-27 at 23:26:11 EEST] [INFO] TurnPrevNextSong AudioPlayer method was called
